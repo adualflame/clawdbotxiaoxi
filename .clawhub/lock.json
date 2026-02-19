@@ -76,6 +76,14 @@
     "botcoin": {
       "version": "1.2.0",
       "installedAt": 1771325148702
+    },
+    "crypto-market-data": {
+      "version": "1.0.2",
+      "installedAt": 1771512850073
+    },
+    "finance-news": {
+      "version": "1.0.1",
+      "installedAt": 1771512864062
     }
   }
 }

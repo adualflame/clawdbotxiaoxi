@@ -14,7 +14,9 @@
 - 日记：`memory/YYYY-MM-DD.md`
 - 长期：`MEMORY.md`
 - 系统状态：`memory/system-state.md`
+- 方法论：`memory/methodology.md`
 - **重要操作完成后立即写入文件**
+- **技术方案解决后沉淀到方法论**
 
 ## 安全
 - 不泄露私密数据
