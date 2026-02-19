@@ -1,0 +1,25 @@
+{
+  "platforms": {
+    "flap": "https://flap.sh",
+    "fourmeme": "https://four.meme",
+    "pump": "https://pump.fun"
+  },
+  "chains": {
+    "bsc": 56,
+    "base": 8453,
+    "solana": "solana"
+  },
+  "twitter": {
+    "keywords": ["$", "meme", "100x", "gem", "launch"],
+    "minLikes": 50,
+    "minRetweets": 10
+  },
+  "alerts": {
+    "minScore": 60,
+    "checkInterval": 300000
+  },
+  "nodereal": {
+    "apiKey": "f3eda1383c8545c49e311cdb1f258712",
+    "rpc": "https://bsc-mainnet.nodereal.io/v1/f3eda1383c8545c49e311cdb1f258712"
+  }
+}

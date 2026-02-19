@@ -1,0 +1,65 @@
+{
+  "rounds": [
+    {
+      "timestamp": "2026-02-16T17:34:14.799470",
+      "base_price": 68935.0,
+      "current_price": 68938.3,
+      "price_move_pct": 0.0048,
+      "direction": "UP",
+      "expiry_at": 1771234470000,
+      "grid_count": 276,
+      "current_grid_odds": 13.9593375,
+      "odds_range": [
+        13.9593375,
+        13.9593375
+      ]
+    },
+    {
+      "timestamp": "2026-02-16T17:34:42.602978",
+      "base_price": 68950.0,
+      "current_price": 68953.5,
+      "price_move_pct": 0.0051,
+      "direction": "UP",
+      "expiry_at": 1771234490000,
+      "grid_count": 276,
+      "current_grid_odds": 13.9593375,
+      "odds_range": [
+        13.9593375,
+        13.9593375
+      ]
+    },
+    {
+      "timestamp": "2026-02-16T17:34:56.617074",
+      "base_price": 68935.0,
+      "current_price": 68938.2,
+      "price_move_pct": 0.0046,
+      "direction": "UP",
+      "expiry_at": 1771234500000,
+      "grid_count": 276,
+      "current_grid_odds": 13.9593375,
+      "odds_range": [
+        13.9593375,
+        13.9593375
+      ]
+    },
+    {
+      "timestamp": "2026-02-16T17:35:10.473153",
+      "base_price": 68960.0,
+      "current_price": 68960.0,
+      "price_move_pct": 0.0,
+      "direction": "DOWN",
+      "expiry_at": 1771234530000,
+      "grid_count": 275,
+      "current_grid_odds": 13.9593375,
+      "odds_range": [
+        13.9593375,
+        13.9593375
+      ]
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "up": 3,
+    "down": 1
+  }
+}

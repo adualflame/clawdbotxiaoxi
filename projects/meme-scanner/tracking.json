@@ -1,0 +1,42 @@
+{
+  "tokens": [
+    {
+      "symbol": "HODLAI",
+      "address": "0x987e6269c6b7ea6898221882f11ea16f87b97777",
+      "chain": "bsc",
+      "score": 72,
+      "initialLiquidity": 122000,
+      "addedAt": "2026-02-03T09:05:23.556Z",
+      "priceHistory": []
+    },
+    {
+      "symbol": "TRIA",
+      "address": "0xb0b92de23baa85fb06208277e925ced53edab482",
+      "chain": "bsc",
+      "score": 38,
+      "initialLiquidity": 0,
+      "addedAt": "2026-02-03T09:05:30.719Z",
+      "priceHistory": []
+    },
+    {
+      "symbol": "元气AI",
+      "address": "0xad144bf8edcf3712a86d3939d2dbeb531ebd4444",
+      "chain": "bsc",
+      "score": 63,
+      "initialLiquidity": 23000,
+      "addedAt": "2026-02-03T09:05:37.617Z",
+      "priceHistory": []
+    },
+    {
+      "symbol": "1",
+      "address": "0xff5d99a5c16cf2ffb4e7da1d7c42a791e70e4444",
+      "chain": "bsc",
+      "score": 73,
+      "initialLiquidity": 253000,
+      "addedAt": "2026-02-03T09:05:44.082Z",
+      "priceHistory": []
+    }
+  ],
+  "lastWeeklyReport": null,
+  "lastMonthlyReport": null
+}

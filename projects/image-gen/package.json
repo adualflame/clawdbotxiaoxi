@@ -1,0 +1,13 @@
+{
+  "name": "image-gen",
+  "version": "1.0.0",
+  "description": "AI 图片生成工具",
+  "main": "index.js",
+  "scripts": {
+    "gen": "node index.js"
+  },
+  "dependencies": {
+    "replicate": "^0.25.0",
+    "dotenv": "^16.3.0"
+  }
+}

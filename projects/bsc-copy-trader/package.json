@@ -1,0 +1,16 @@
+{
+  "name": "bsc-copy-trader",
+  "version": "1.0.0",
+  "description": "BSC 链上跟单机器人",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "ws": "node index-ws.js",
+    "monitor": "node monitor.js"
+  },
+  "dependencies": {
+    "ethers": "^6.9.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.0"
+  }
+}

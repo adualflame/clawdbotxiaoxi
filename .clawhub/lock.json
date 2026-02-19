@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "skills": {
+    "gemini-image-gen": {
+      "version": "1.1.0",
+      "installedAt": 1770209793163
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1770209694547
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1770209799883
+    },
+    "bird": {
+      "version": "1.0.0",
+      "installedAt": 1770209806330
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1770209813786
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1770209817140
+    },
+    "nano-banana-pro": {
+      "version": "1.0.1",
+      "installedAt": 1770209825182
+    },
+    "gifgrep": {
+      "version": "1.0.1",
+      "installedAt": 1770209828244
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1770209958514
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1770209961741
+    },
+    "crypto-price": {
+      "version": "0.2.2",
+      "installedAt": 1770705851129
+    },
+    "x-twitter": {
+      "version": "2.3.1",
+      "installedAt": 1770705885343
+    },
+    "zapper": {
+      "version": "1.0.0",
+      "installedAt": 1770705904832
+    },
+    "base-trader": {
+      "version": "1.1.1",
+      "installedAt": 1771208665057
+    },
+    "binance-pro": {
+      "version": "1.0.0",
+      "installedAt": 1771208668466
+    },
+    "binance-dca": {
+      "version": "1.2.0",
+      "installedAt": 1771208672585
+    },
+    "predictme": {
+      "version": "1.2.0",
+      "installedAt": 1771208677987
+    },
+    "moltrade": {
+      "version": "1.0.7",
+      "installedAt": 1771208681992
+    },
+    "botcoin": {
+      "version": "1.2.0",
+      "installedAt": 1771325148702
+    }
+  }
+}

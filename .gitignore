@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Browser profiles
+twitter-profile/
+
+# Cache
+*.pma
+*.db-wal
+Cache_Data/
+
+# Secrets (keep in secrets/ but don't commit sensitive ones)
+*.key
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.log
