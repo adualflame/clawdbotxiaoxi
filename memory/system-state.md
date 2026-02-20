@@ -4,10 +4,10 @@
 
 ## Git 备份
 - **状态**: ✅ 已配置
-- **仓库**: adualflame/xiaoxi-memory
-- **分支**: master（不是 main）
-- **代理**: g.blfrp.cn
-- **Token**: 已嵌入 remote URL（ghp_开头）
+- **仓库**: adualflame/clawdbotxiaoxi
+- **分支**: master
+- **代理**: Clash Verge (127.0.0.1:7897)
+- **Token**: 已嵌入 remote URL
 - **Cron**: 每天 23:00 自动备份
 
 ## Edge 调试端口
@@ -40,7 +40,8 @@
 - Moltrade 检查：每 4 小时
 
 ## Hyperliquid
-- **重要**: 不区分现货/合约账户，USDC 可直接交易
+- **重要**: 统一账户，不分现货/合约，USDC 可直接交易
+- **API 注意**: 查余额用 `spotClearinghouseState`，不是 `clearinghouseState`
 
 ---
 *操作前先查此文件，避免重复配置*
