@@ -20,3 +20,7 @@ Thumbs.db
 # Temp
 *.tmp
 *.log
+
+secrets/
+*.wallet.json
+api_key
