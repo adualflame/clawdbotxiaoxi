@@ -157,5 +157,27 @@ while True:
 2. **余额查询失败** → 用 `spotClearinghouseState`
 3. **日志为空** → Windows 编码问题，用 error.log
 
+## 代币安全检测
+
+### GoPlus API
+```powershell
+$r = Invoke-RestMethod -Uri "https://api.gopluslabs.io/api/v1/token_security/{chainId}?contract_addresses={address}"
+```
+链ID：BSC=56, ETH=1, Polygon=137, Arbitrum=42161
+
+### 输出规则（强制）
+**直接输出评估表，禁止显示原始 JSON**
+
+格式：
+```
+| 项目 | 结果 | 风险 |
+|------|------|------|
+| 名称 | xxx | - |
+| 蜜罐 | ❌/✅ | ✅/⚠️ |
+...
+评分：xx/100 - X级
+结论：xxx
+```
+
 ---
 *碰到新方案及时补充*
